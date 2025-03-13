@@ -1,2 +1,3 @@
 # Multiboot2-Grub-x86-OS-Template
-this is just a simple x86 os
+This is just a simple x86 os template with grub + multiboot2,
+it uses ELF.
